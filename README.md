@@ -74,9 +74,17 @@ Jeu en 3D fait avec **Unity**, qui a pour but de promouvoir le BUT lors des **po
 
 **Web** :  
 Nous avons réalisé une miriade de projets web lors du BUT, vous pouvez en retrouver 3 sur ce GitHub :  
-- Un site communautaire sur un jeu avec Symfony : [ForumPersona5](https://github.com/YlianF/ForumPersona5)  
-- Un site pour un studio de jeu pour poster des annonces avec Symfony : [TeamTode](https://github.com/YlianF/TeamTode)  
-- Un blog pour partager des tutoriels origamis : [Origamax](https://github.com/YlianF/Origamax)  
+- Un site communautaire sur un jeu avec **Symfony** : [ForumPersona5](https://github.com/YlianF/ForumPersona5)  
+- Un site pour un studio de jeu pour poster des annonces avec **Symfony** : [TeamTode](https://github.com/YlianF/TeamTode)  
+- Un blog pour partager des tutoriels origamis avec **Laravel** : [Origamax](https://github.com/YlianF/Origamax)
+
+chaque projet avait des buts et contraintes différentes, bien qu'il partagent tous le langage **PHP**.  
+Nous avons aussi pu faire des applications Javascript, notamment avec **NodeJS**
+
+**Mobile** :   
+Nous avons eu l'occasion de faire du développement mobile avec 2 technologies différentes :
+- Une application qui permet de lister des tâches à faire avec **Kotlin** : [ToDoList](https://github.com/YlianF/ToDoList)
+- Une application sur la musique qui utilise l'API de Spotify avec **Xamarin** : [Musicool](https://github.com/YlianF/Musicool)
 
 ### <ins>Projets perso</ins>
 
