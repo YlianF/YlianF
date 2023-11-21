@@ -18,13 +18,15 @@ Je suis de nature très curieux, je m'intéresse donc à toutes sortes de sujets
 
 ## 💪 Mes qualités
 
-- **le travail d'équipe** : la coordination avec mon groupe de travail est un des aspect qui me plaît le plus dans l'informatique, ce que j'ai fait à maintes reprises, autant lors de mes études que dans mes projets personnels
+- **le travail d'équipe** : la coordination avec mon groupe de travail est un des aspect qui me plaît le plus dans l'informatique, ce que j'ai pu expérimenter à maintes reprises, autant lors de mes études que dans mes projets personnels
 
 - **la communication** : j'ai pu, à de nombreuses occasions, travailler sur ma communication, par exemple des partitipations à des évènements organisés par l'IUT, comme les portes ouvertes ou l'accueil d'élèves étrangers
 
-- **l'esprit critique** : je sais prendre du recul sur une situation ou un projet pour prendre la meilleure décision possible
+- **l'esprit critique** : je sais prendre du recul sur une situation ou un projet et en faire une critique objective
 
 - **l'adaptabilité** : je sais évoluer rapidement dans un environnement nouveau 
+
+- **la créativité** : j'ai toujours beaucoup d'idées qui me viennent en tête, ce qui me donne une approche différente et rend mon travail plus original et drôle
 
 ## 💻 Mes compétences
 
@@ -53,6 +55,7 @@ Je suis de nature très curieux, je m'intéresse donc à toutes sortes de sujets
 
 - **Virtualisation** : 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Virtual Box](https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)
 
 ## 🚀 Mes projets
 ### <ins>Projets BUT</ins>
